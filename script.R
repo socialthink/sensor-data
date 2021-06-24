@@ -1,0 +1,1 @@
+read.csv("https://archive.sensor.community/2021-05-21/2021-05-21_bme280_sensor_31197.csv", sep = ";") -> df
